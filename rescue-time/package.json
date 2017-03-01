@@ -1,0 +1,21 @@
+{
+  "name": "rescue-time-fb",
+  "version": "1.0.0",
+  "description": "post Rescue Time stats to FB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "errorhandler": "^1.5.0",
+    "express": "^4.14.1",
+    "fbgraph": "^1.4.1",
+    "http": "0.0.0",
+    "method-override": "^2.3.7",
+    "moment": "^2.17.1",
+    "pug": "^2.0.0-beta11"
+  }
+}
